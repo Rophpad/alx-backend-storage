@@ -1,2 +1,2 @@
 // Lists all documents with name="Holberton school" in the collection school
-db.school.find( {name: { $eq: "Holberton school" } } );
+db.school.find( {name: { $eq: "Holberton school" } } )
