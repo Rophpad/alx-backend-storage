@@ -5,3 +5,4 @@ This repository contains all projects related to storage done for ALX Back-end s
 ## Directories
 
 - [0x00-MySQL_Advanced](./0x00-MySQL_Advanced)
+- [0x01-NoSQL](./0x01-NoSQL)
